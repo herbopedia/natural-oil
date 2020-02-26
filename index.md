@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/herbopedia/natural-oil/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/herbopedia/natural-oil/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<header class="article__header separator has-animated" data-animate="">
+<h1 class="article__title h2" style="text-align: center;"><strong>BENEFITS OF CARROT SEED ESSENTIAL OIL</strong></h1>
+<p style="text-align: center;">This oil ought not be mistaken for Carrot Carrier Oil or Carrot Seed Carrier Oil.</p>
+</header>
+<div class="article__body rte" itemprop="articleBody" style="text-align: center;"><img src="https://www.organicfacts.net/wp-content/uploads/carrotseedoil.jpg" alt="Image result for carrot seed oil" /></div>
+<div class="article__body rte" itemprop="articleBody" style="text-align: center;"></div>
+<div class="article__body rte" itemprop="articleBody" style="text-align: center;"><strong>Carrot Seed Essential Oil is steam refined from the dried seeds of the Daucus carota plant.</strong><br /><br />Utilized in fragrance based treatment applications, Carrot Seed Oil invigorates flow just as cerebrum and nerve capacities. Its warm, hearty, woody, and herbaceous fragrance has an alleviating, reviving, and establishing impact that is known to reduce sentiments of weariness, shortcoming, tension, and stress.<br /><br />Utilized cosmetically, Carrot Seed Oil fixes skin harm, tones muscles and tissue, and fixes skin to keep it from drooping. By evacuating materially poisons, it helps resistance, lessens muscle and joint aggravation, and addresses liquid maintenance.<br /><br />Utilized restoratively, Carrot Seed Essential Oil brings down circulatory strain, encourages the mending of contaminated skin and wounds, mitigates sore throats and hiccups, and lightens sicknesses brought about by infections.<br /><br /><strong>HISTORY OF CARROT SEED OIL</strong><br /><img src="https://villagecraftandcandle.com/image/cache/data/Carrot%20Essential%20Oil-780x640.jpg" alt="Related image" /></div>
+<div class="article__body rte" itemprop="articleBody" style="text-align: center;"><br />Carrot Seed Essential Oil is gotten from the dried seeds of the Daucus carota plant, all the more generally known as the Wild Carrot or "Sovereign Anne's Lace," as it is alluded to in Europe. Carrot Seed Essential Oil is ordinarily confused with both Carrot Seed Carrier Oil and Carrot Carrier Oil. The previous transporter oil is acquired by mixing a vegetable oil with cold-squeezed Wild Carrot seeds, while the last is the consequence of implanting a vegetable oil with macerated Wild Carrot or Carrot root at that point stressing it. Accordingly, both are mixed oils, however one is injected with the seeds and the other with the root. The fundamental oil, in any case, is normally steam refined from the seeds.</div>
